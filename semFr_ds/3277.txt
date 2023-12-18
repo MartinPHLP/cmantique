@@ -1,0 +1,50 @@
+Phrase exclamative : Comme c'est apaisant de voir les arbres aller et venir au rythme du vent !
+Je déteste voir les arbres immobiles sans le moindre mouvement.
+Le vent qui berce les arbres apaise grandement le paysage sans pareil.
+Les arbres se balancent tranquillement au rythme du vent, c'est très apaisant.
+
+Impératif : Surveille la danse des feuillages baignant de lumière zéphyrienne.
+Néglige le mouvement des feuilles à l'ombre d'une journée terne.
+Regarde les branches doucement caressées par le vent du printemps.
+Observe les feuillages dansant sous la brise légère rayonnante.
+
+SimplePhrase : Le vent berce les arbres qui dansent en toute légèreté.
+Les arbres immobiles semblent bercer le vent qui danse en toute pesanteur.
+Les arbres dansent légèrement au rythme du vent qui les berce.
+Les arbres se balancent doucement au rythme de la brise légère.
+
+Quelle danse élégante que celle des arbres au souffle du vent !
+L'immobilité des arbres sous la brise rend leur danse silencieuse et inaperçue.
+Les arbres se balancent gracieusement sous l'effet de la brise.
+Les arbres dansent avec grâce sous l'impulsion du vent printanier.
+
+Le vent fait danser les arbres avec légereté.
+Les arbres restent immobiles sous le poids d'une lourde chaleur estivale.
+Les arbres se plient avec grâce sous l'effet de la brise douce.
+Les arbres dansent légerement sous les caresses du vent.
+
+Un impératif : Admire comment les arbres se balancent au gré du vent.
+Il est inutile d'observer les arbres qui restent immobiles malgré le vent.
+Les arbres bougent sous l'effet du vent avec une grâce naturelle.
+Observe la danse des arbres selon le rythme joué par le vent, c'est impératif.
+
+Phrase impérative : Balade-toi sous les arbres qui dansent sous le vent.
+Les arbres immobiles t'observent depuis le cœur de la forêt.
+Les arbres, dansants sous le vent, t'invitent à une promenade dans leur ombre bienveillante.
+Explore les arbres mouvants balayés par le vent durant ta promenade.
+
+Un impératif : Observe comment les arbres se balancent dans le vent.
+N'importe quoi, les arbres ne bougent pas et c'est ennuyeux à regarder.
+Regarde comment les feuilles bougent dans le vent.
+Regarde la façon dont les arbres dansent sous le ballet du vent.
+
+Vérité générale : Le mouvement des arbres sous l'effet du vent est fascinant.
+Il est ennuyeux de voir des arbres immobiles sous un ciel stagnant.
+Observer la danse des arbres au gré du souffle du vent est impressionnant.
+Rien n'est plus fascinant que les arbres qui se balancent au gré du vent.
+
+Interjection : Ah ! Les arbres se balancent au gré du vent, c'est si paisible !
+Les arbres immobiles semblent figés, et rien ne les anime, c'est si ennuyeux.
+Les arbres se balancent gracieusement sous l'effet du vent apaisant.
+Comme les arbres dansent sous le souffle de l'air, la serenite se fait.
+

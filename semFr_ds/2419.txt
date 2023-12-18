@@ -1,0 +1,50 @@
+Une proposition : On convient d'un rendez-vous par SMS ?
+Refusons-nous un rendez-vous si cela est réalisé via SMS ?
+As-tu déjà proposé une date pour ce rendez-vous ?
+Acceptes-tu qu'on fixe un rdv via SMS ?
+
+Quelle heure te convient pour notre prochain rendez-vous ?
+Peux-tu me dire l'heure qui ne te convient pas pour notre prochain rendez-vous ?
+Peux-tu sélectionner un moment adapté à ta disponibilité pour que nous puissions nous rencontrer ?
+Pour notre prochain rendez-vous, dis-moi l'horaire qui t'arrange.
+
+Elle a envoyé le texto pour confirmer le rendez-vous.
+Le rendez-vous n'a pas été confirmé malgré l'absence de réponse à son texto.
+La confirmation de leur rencontre est intervenue après que le SMS soit parti.
+La confirmation du rendez-vous a été effectuée par envoi de texto.
+
+À quelle heure souhaitez-vous vous voir ?
+Aucune rencontre n'est nécessaire à cette heure-là.
+Souhaitez-vous fixer une heure pour notre rencontre ?
+Souhaitez-vous déterminer l'heure qui vous convient pour se rencontrer ?
+
+Le rendez-vous est confirmé, merci de me texter à l'heure souhaitée.
+N'oublie pas de me texter si jamais tu as besoin de reporter le rendez-vous.
+Je suis disponible à l'heure que vous souhaitez, tenez-moi simplement informé.
+N'hésite pas à m'envoyer un petit message quand il sera temps de se voir.
+
+Demain soir, cinéma ou restaurant, quelle heure te convient le mieux ?
+Je n'ai aucun plan prévu pour demain soir, et je me sens libre de choisir.
+Plutôt cinéma ou restaurant demain soir et à quelle heure préfères-tu sortir?
+Préfères-tu que l'on se voie demain soir pour dîner ou voir un film, à quelle heure ?
+
+Peux-tu m'envoyer un texto pour qu'on se voie ce soir ?
+Je préfère qu'on se voie ce soir sans utiliser nos téléphones pour communiquer.
+Est-ce qu'une rencontre ce soir est possible pour toi ?
+Pourrait-on planifier de se retrouver ce soir par l'envoi d'un message texte ?
+
+Il est temps de programmer une rencontre via message texte.
+Il n'est pas recommandé de programmer une rencontre grâce aux messages texte.
+On pourrait établir une rencontre en utilisant les SMS.
+Organisons une rencontre en fixant un rendez-vous par SMS.
+
+Est-ce que tu es disponible demain pour qu'on se voit ?
+Je ne suis pas disponible demain pour qu'on se voit, désolé.
+As-tu des disponibilités pour qu'on organise une rencontre demain ?
+Sommes-nous en mesure de nous rencontrer demain étant donné votre emploi du temps ?
+
+On se voit quand?
+Ne prévois-tu donc pas de programme pour notre rencontre ?
+Quel est le moment qui te convient pour notre rencontre ?
+Pourrais-tu me donner une indication sur la date à laquelle nous nous reverrons ?
+

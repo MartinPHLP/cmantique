@@ -1,0 +1,25 @@
+epochs = 30
+batchsize = 4096
+
+
+
+Model: "cmantique_3"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ tf_camembert_model (TFCamem  multiple                 110621952
+ bertModel)
+
+ dense_12 (Dense)            multiple                  393728
+
+ dense_13 (Dense)            multiple                  262656
+
+ dense_14 (Dense)            multiple                  262656
+
+ dense_15 (Dense)            multiple                  1539
+
+=================================================================
+Total params: 111,542,531
+Trainable params: 920,579
+Non-trainable params: 110,621,952
+_________________________________________________________________

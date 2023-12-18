@@ -1,0 +1,50 @@
+Les point-virgules sont obligatoires en Java pour bien structurer le code.
+On n'a pas besoin d'utiliser des point-virgules en Java pour programmer efficacement.
+Le code Java doit être bien structuré pour une bonne lecture.
+Java requiert la structuration du code via l'utilisation des point-virgules.
+
+Le langage Java utilise une syntaxe rigoureuse pour garantir une exécution fluide.
+Java peut tolérer des erreurs mineures de syntaxe qui n'entravent pas l'exécution.
+La syntaxe stricte du langage Java assure une bonne exécution des programmes.
+La syntaxe rigoureuse de Java garantit une fluidité d'exécution du langage.
+
+Le dialecte java nécessite une maîtrise syntaxique rigoureuse pour un codage efficace.
+Utiliser correctement le dialecte Java permet d'améliorer la qualité du codage.
+Il est important de maintenir une bonne structure grammaticale dans toutes les phrases.
+Un codage efficace en Java exige une excellente maîtrise de sa syntaxe spécifique.
+
+L'étude approfondie de la syntaxe du langage Java est indispensable aux programmeurs.
+Les programmeurs n'ont pas besoin d'étudier profondément la syntaxe du langage Java.
+La maîtrise de la grammaire du français soutient la fluidité d'un texte.
+La connaissance syntaxique en Java représente une nécessité absolue pour les développeurs.
+
+Chaque accolade en Java doit être fermée dans l'ordre pour éviter les erreurs.
+Toutes les accolades en Java ne doivent pas être fermées dans l'ordre pour éviter les erreurs.
+Refermer dans le bon ordre chaque packaging de produits pour éviter tout problème.
+Pour éviter les erreurs en Java, on doit procéder à une fermeture ordonnée des accolades.
+
+Une virgule manquante peut causer une catastrophe dans la syntaxe Java.
+Aucun problème de syntaxe n'est engendré par l'absence d'une seule virgule en language Java.
+Le chat blanc dort sur le tapis de la favorite de la maison.
+Oublier une ponctuation essentielle peut avoir des conséquences fâcheuses lors de la programmation Java.
+
+Les classes sont la base de la syntaxe du langage Java.
+La syntaxe de Java n'est pas construite sur la base des classes.
+Le langage Java doit respecter une syntaxe déterminée pour fonctionner correctement.
+En Java, la syntaxe repose sur des classes formant la base du langage.
+
+L'évaluation des expressions de Java suit les règles de syntaxe de l'algèbre.
+En Java, la syntaxe des expressions n'est pas la même que celle de l'algèbre.
+Le ciel est couvert de nuages gris foncés, annonciateurs possibles de pluie.
+Les règles algebriques sont respectées lors de l'évaluation des expressions en Java.
+
+La syntaxe complexe du langage Java peut rendre difficile les premières lignes de code.
+Les premières lignes de code peuvent être faciles grâce à la simplicité de Python.
+La sélection d'une couleur peut varier l'apparence visuelle de l'interface utilisateurs.
+Les novices sont souvent déconcertés face au code Java en raison de sa syntaxe complexe.
+
+Je connaîs bien les règles de la syntaxe Java.
+Les règles de la syntaxe Java ne sont pas familières pour moi.
+Maîtrisant la grammaire francophone, mes phrases sont grammaticalement correctes.
+Les règles de la syntaxe Java, je les maîtrise parfaitement.
+

@@ -1,0 +1,50 @@
+Interrogative : Son sourire était-il le fruit de sa joie ou de sa malice ?
+Plutôt fâcile de discerner entre son sourire joyeux et son sourire malhonnête donc.
+Sa réponse reflète-t-elle ses émotions ou son raisonnement ?
+Sa joie ou sa malice s'exprimaient-elles à travers son sourire ?
+
+Phrase exclamative : Quel plaisir de voir son visage s'éclairer d'un sourire !
+Je suis dépité de constater que son visage ne montre aucune émotion.
+L'apparition d'un sourire sur le visage était plaisante à apercevoir.
+Voir son visage rayonnant de sourire procure un immense plaisir !
+
+Sujet verbe complément : Elle laissa échapper un sourire émerveillé.
+Un sourire déçu s'afficha sur son visage tandis qu'elle s'en allait.
+Un sourire de bonheur illumina son visage.
+Un sourire ému illumina son visage tandis qu'elle baissait les yeux.
+
+Sujet + verbe + complément : Soudain, un sourire éclaira son visage.
+Son visage perdit tout sourire à l'instant même.
+Le visage s'illumina d'un sourire soudain.
+Son visage s'illumina d'un sourire soudain.
+
+Certes timide, mais le sourire de Marie apporta douceur et bonheur à tous.
+Malgré sa confiance en soi, la mine renfrognée de Pierre dissipa l'atmosphère gaie et joyeuse.
+Les déchets sont triés avant d'être recyclés dans l'usine de traitement des déchets.
+Malgré sa timidité, Marie a su répandre douceur et bonheur grâce à son sourire.
+
+La phrase générée est : Son visage s'éclaire d'un sourire radieux.
+Son visage se plisse de mécontentement, signe évident de son insatisfaction.
+Le chat noir dort paisiblement sur le canapé.
+Un large sourire illumine son visage d'une étincelle de joie.
+
+Phrase exclamative : Que c’était agréable de voir ce sourire illuminer son visage !
+Leur visage ne changeait pas d'expression, ce qui était ennuyant.
+Le sourire sur son visage était agréable à regarder.
+Son sourire éclairait son visage d'une telle agréable clarté !
+
+Il s'épanouit soudainement, happé par le rythme insoutenable de son cœur.
+Son cœur s'est figé, incapable de suivre un rythme effréné.
+Son cœur bat la chamade, entraînant brusquement son épanouissement.
+Son cœur bat la chamade alors qu'il s'épanouit subitement dans l'instant présent.
+
+Sentence impérative : Souris et laisse cette lumière illuminer ton visage.
+La lumière sur ton visage est éteinte, ne souris pas.
+La lumière éclaire ton visage tandis que tu souris.
+Offre à ton visage la joie des lumières en arborant un joli sourire.
+
+Subordonnée Complétive : Il était heureux qu'un sourire éclairât son visage.
+Malgré son sourire, il était triste qu'il parte sans lui avoir dit au revoir.
+Le sourire illuminait son visage, ce qui le rendait heureux.
+Sa figure rayonna de joie dès qu'un sourire illuminât son visage.
+

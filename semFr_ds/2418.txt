@@ -1,0 +1,50 @@
+Je vous écoute, que puis-je faire pour vous ?
+Je suis occupé pour le moment, pouvez-vous me parler plus tard ?
+Pouvez-vous me dire comment je peux vous aider ?
+Comment puis-je vous aider ?
+
+Bonjour, vous êtes bien sur la ligne de la société XYZ, comment puis-je vous aider ?
+Comment puis-je vous aider? Vous êtes bien sur la ligne de la société XYZ.
+Puis-je vous aider ?
+Comment puis-je vous assister sur la ligne de la société XYZ ?
+
+Bonjour, vous avez contacté [nom de l'entreprise], comment puis-je vous aider ?
+Je ne comprends pas pourquoi vous m'appelez ou ce que vous voulez.
+Souhaitez-vous de l'assistance de la part de notre entreprise ?
+Comment seraient vos préférences en matière d'assistance ?
+
+Bonjour, [nom de votre entreprise], comment puis-je vous aider?
+Comment puis-je vous aider ? est ma question, car vous ne m'avez toujours pas salué.
+Comment pourrai-je vous assister, [nom de votre entreprise], dès maintenant ?
+Que puis-je faire de pour vous, [nom de votre entreprise] ?
+
+Pas de panique, je réponds !
+Aucune réponse de ma part, inutile de s'inquiéter.
+Je suis disponible pour répondre à toute question, ne t'inquiète pas.
+Rassure-toi, je suis à ta disposition pour répondre !
+
+Bonjour, quel est l'objet de votre appel?
+Ignorez-vous la raison de ma venue?
+En quoi puis-je vous être utile aujourd'hui ?
+Puis-je savoir ce qui vous amène à me téléphoner?
+
+Répondre clairement et de manière enthousiaste à l'appel professionnel dès la première sonnerie.
+Ne pas répondre et attendre avant de recontacter professionnellement.
+D'accord pour répondre professionellement lorsqu'on m'appelle.
+Décrochez dès la première sonnerie et répondez avec enthousiasme à votre appel professionnel.
+
+Je suis navré(e), cette fonctionnalité n'est pas possible car je ne peux pas générer une réponse de qualité en tenant compte du contexte spécifique de chaque entreprise. Pour répondre à un appel téléphonique professionnel, quelques recommand
+Répondez dans les meilleures conditions à vos appels pros tout en gardant votre contexte spécifique.
+Malheureusement, je ne suis pas en mesure de fournir une réponse personnalisée.
+Je suis incapable de fournir une réponse précise en raison de la spécificité de chaque entreprise.
+
+Allô, bonjour, X à l'appareil, comment puis-je vous aider ?
+Y a-t-il quelque chose dont vous avez besoin ?
+Peux-tu me donner plus d'informations sur ce sujet ?
+Je suis disponible au téléphone, quels sont vos besoins ?
+
+A l'appareil, comment puis-je vous aider ?
+Que puis-je faire pour vous ?
+Souhaitez-vous que je vous apporte mon assistance via cet appareil électronique ?
+Comment Pourrais-je vous être utile au téléphone?
+

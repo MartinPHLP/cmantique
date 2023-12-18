@@ -1,0 +1,50 @@
+On utilisait des messages cryptés pour échapper aux ennemis.
+Les ennemis comprenaient facilement les messages, si bien qu'il fallait s'adapter.
+Les ennemis ne pouvaient pas comprendre nos messages en raison de leur cryptage.
+Pour tromper l'adversaire, on recourait à des messages codés.
+
+Si la lettre entourée de deux lettres identiques apparaissait 3 fois de suite, donc c'était une lettre cryptée.
+La lettre entourée de deux lettres identiques apparait rarement trois fois de suite.
+Il est possible que j'aie du mal à générer une phrase avec la même complexité syntaxique.
+Trois apparitions consécutives de la lettre isolée la rendre énigmatique.
+
+Le code Morse fut largement utilisé pour la communication lors des conflits armés.
+Les conflits armés ont rarement fait appel à la communication en langue écrite.
+La transmission de messages de guerre a très souvent été codée dans l'histoire.
+Les conflits armés impliquaient une grande utilisation du code Morse pour la communication.
+
+Les codebreakers ont mis fin à de nombreux messages codés pendant la guerre.
+Pendant la guerre, de nombreux messages ont été protégés grâce à des codages complexes.
+Durant la guerre, plusieurs messages codés ont été neutralisés par les codebreakers.
+Les cryptanalystes ont déchiffré maints messages cryptés durant le conflit armé.
+
+Des alliés utilisaient des codes complexes pour communiquer entre eux pendant la guerre.
+Pendant la guerre, aucune communication n'avait lieu entre des ennemis déterminés à gagner.
+Pendant la guerre, les alliés communiquaient entre eux en utilisant des codes complexes.
+Pendant la guerre, les alliés se communiquaient en utilisant des codes sophistiqués.
+
+Des messages vitales cachés en plein vue avec des ``coded keys`` durant la guerre.
+Lors de la guerre, il n'y avait aucun message caché en pleine vue de tous.
+Des clés cryptées dissimulant des informations capitales en pleine guerre.
+Pendant la guerre, des clés codées contenaient des informations vitales visibles à tous.
+
+Ils utilisaient des code Morse pour communiquer en toute discrétion sur le front.
+Ils parlaient fort pour se faire entendre dans leur campement sur le front.
+Ils parlaient en secret grâce au langage universel des signes.
+Sur le front, la communication discrète se faisait grâce à des codes morse.
+
+Les messages codés étaient essentiels pour la réussite de nombreuses missions militaires.
+Les messages en clair étaient suffisants pour l'échec de certaines missions militaires.
+La réussite de missions militaires est souvent liée à des messages codés.
+La réussite de missions militaires dépendait souvent de l'usage de messages codés.
+
+Les transmissions étaient chiffrées pour protéger les messages de l'ennemi.
+L'ennemi lisait les messages car les transmissions n'étaient pas chiffrées.
+Les messages ont bénéficié de protection grâce au chiffrement des transmissions.
+Afin d'éviter l'espionnage ennemi, les messages étaient codés lors de leur envoi.
+
+Les soldats utilisaient des codes secrets pour communiquer sur le champ de bataille.
+Sur le champ de bataille, les soldats communiquaient librement sans utiliser de code secret.
+Les codes secrets étaient utilisés par les soldats pour communiquer en mission.
+La création de codes secrets par les soldats sur le terrain était courante.
+
